@@ -7,7 +7,8 @@ Software Engineer, Austria
 
 ## Private
 On my time off you will find me:
-- Playing all sorts of video games- Cosplaying as an additive manufacturing professional means I know how to 3D print and do some CAD. 
+- Playing all sorts of video games
+- Cosplaying as an additive manufacturing professional means I know how to 3D print and do some CAD. 
 - Playing with model trains and writing my own [model train-controlling software](https://github.com/Jakob-Eichberger/TrainDatabase)
 - Photographing anything and everything but mostly just trains and posting them to [Flickr](https://www.flickr.com/people/jakob-eichberger/)
 
