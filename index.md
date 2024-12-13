@@ -15,9 +15,9 @@ On my time off you will find me:
 ## Business
 For business inquiries, you can contact me on [linkedin](https://www.linkedin.com/in/jakob-eichberger/).
 
-Currently I'm creating all sorts of WPF and ASP.Net apps for [Becom Electronics](https://www.becom-group.com/). 
+Currently, I'm working @ [RUBICON IT GMBH](https://www.rubicon.eu/) and expanding an existing and long-running software project. 
 
-You can also find me on [GitHub](https://github.com/Jakob-Eichberger) where I have some stuff on display. 
+You can also find me on [GitHub](https://github.com/Jakob-Eichberger) where I have some personal projects on display. 
 
 ## Language
 - German (native, or so I'm told)
